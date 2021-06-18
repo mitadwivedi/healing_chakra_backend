@@ -1,0 +1,11 @@
+asgiref
+certifi==2021.5.30
+Django
+django-cors-headers==3.7.0
+django-jsonfield==1.4.1
+djangorestframework==3.12.2
+psycopg2
+pytz
+six==1.16.0
+sqlparse
+wincertstore==0.2
